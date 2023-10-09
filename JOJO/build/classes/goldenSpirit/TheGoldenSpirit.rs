@@ -1,0 +1,2 @@
+goldenSpirit.GraphNode
+goldenSpirit.TheGoldenSpirit

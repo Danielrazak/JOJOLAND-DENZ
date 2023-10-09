@@ -1,0 +1,73 @@
+Name,Age,Gender,Residential Area,Parents,Stand,Destructive Power,Speed,Range,Stamina,Precision,Development Potential
+Erina Pendleton,70.0,Female,Joestar Mansion,,,,,,,,
+George Joestar II,32.0,Male,Joestar Mansion,Erina Joestar,,,,,,,
+Giorno Giovanna,15.0,Male,Joestar Mansion,DIO,Gold Experience,C,A,C,D,C,A
+Holy Kujo,45.0,Female,Joestar Mansion,Joseph Joestar,,,,,,,
+Jolyne Cujoh,19.0,Female,Joestar Mansion,Jotaro Kujo,Stone Free,A,B,C,A,C,A
+Jonathan Joestar,20.0,Male,Joestar Mansion,George Joestar I,,,,,,,
+Joseph Joestar,18.0,Male,Joestar Mansion,George Joestar II,Hermit Purple,D,C,D,A,D,E
+Josuke Higashikata,16.0,Male,Joestar Mansion,Joseph Joestar,Crazy Diamond,A,A,D,B,B,C
+Jotaro Kujo,17.0,Male,Joestar Mansion,Holy Kujo,Star Platinum,A,A,C,A,A,A
+Lisa Lisa,50.0,Female,Joestar Mansion,,,,,,,,
+Suzi Q.,,Female,Joestar Mansion,,,,,,,,
+Tomoko Higashikata,37.0,Female,Joestar Mansion,,,,,,,,
+Iggy,,Male,Polnareff Land,,The Fool,B,C,D,C,D,C
+Jean Pierre Polnareff,24.0,Male,Polnareff Land,,Silver Chariot,C,A,C,B,B,C
+Muhammad Avdol,29.0,Male,Polnareff Land,,Magician's Red,B,B,C,B,C,D
+Noriaki Kakyoin,17.0,Male,Polnareff Land,,Hierophant Green,C,B,A,B,C,D
+DIO,121.0,Male,DIO's Mansion,,The World,A,A,C,A,B,B
+Donatello Versus,25.0,Male,DIO's Mansion,,Under World,Null,C,A,C,Null,Null
+Enrico Pucci,39.0,Male,DIO's Mansion,,Made in Heaven,B,Infinity,C,A,C,A
+Enya the Hag,,Female,DIO's Mansion,,Justice,D,E,A,A,E,E
+Rikiel,24.0,Male,DIO's Mansion,,Sky High,Null,Null,B,C,Null,Null
+Ungalo,24.0,Male,DIO's Mansion,,Bohemian Rhapsody,Null,Null,Infinity,A,Null,Null
+Vanilla Ice,,Male,DIO's Mansion,,Cream,B,B,D,C,C,D
+Aya Tsuji,,Female,Morioh Grand Hotel,,Cinderella,D,C,C,C,A,C
+Hayato Kawajiri,11.0,Male,Morioh Grand Hotel,,,,,,,,
+Koichi Hirose,15.0,Male,Morioh Grand Hotel,,Echoes,B,B,C,B,C,A
+Mikitaka Hazekura,216.0,Male,Morioh Grand Hotel,,Earth Wind and Fire,C,C,Null,A,C,C
+Okuyasu Nijimura,15.0,Male,Morioh Grand Hotel,,The Hand,B,B,D,C,C,C
+Reimi Sugimoto,16.0,Female,Morioh Grand Hotel,,,,,,,,
+Rohan Kishibe,20.0,Male,Morioh Grand Hotel,,Heaven's Door,D,B,B,B,C,A
+Shigekiyo Yangu,14.0,Male,Morioh Grand Hotel,,Harvest,E,B,A,A,E,C
+Tamami Kobayashi,20.0,Male,Morioh Grand Hotel,,The Lock,E,E,A,A,E,E
+Tonio Trussardi,29.0,Male,Morioh Grand Hotel,,Pearl Jam,E,C,B,A,E,C
+Toshikazu Hazamada,18.0,Male,Morioh Grand Hotel,,Surface,B,B,C,B,C,C
+Yukako Yamagishi,,Female,Morioh Grand Hotel,,Love Deluxe,B,B,C,A,E,B
+Yuya Fungami,,Male,Morioh Grand Hotel,,Highway Star,C,B,A,A,E,C
+Akira Otoishi,19.0,Male,Angelo Rock,,Red Hot Chili Pepper,A,A,A,A,C,A
+Anjuro Katagiri,34.0,Male,Angelo Rock,,Aqua Necklace,C,C,A,A,C,E
+Keicho Nijimura,18.0,Male,Angelo Rock,,Bad Company,B,B,C,B,C,C
+Ken Oyanagi,11.0,Male,Angelo Rock,,Boy II Man,C,B,B,A,C,C
+Masazo Kinoto,29.0,Male,Angelo Rock,,Cheap Trick,E,E,E,A,E,E
+Terunosuke Miyamoto,,Male,Angelo Rock,,Enigma,E,E,C,A,C,C
+Toyohiro Kanedaichi,,Male,Angelo Rock,,Super Fly,E,E,Null,A,E,E
+Yoshihiro Kira,,Male,Angelo Rock,,,,,,,,
+Yoshikage Kira,33.0,Male,Angelo Rock,,Atom Heart Father,E,E,Null,A,E,E
+Yoshikage Kira,33.0,Male,Angelo Rock,,Killer Queen,A,B,D,B,B,A
+Bruno Bucciarati,20.0,Male,Vineyard,,Sticky Fingers,A,A,C,D,C,D
+Guido Mista,18.0,Male,Vineyard,,Sex Pistols,E,C,B,A,A,B
+Leone Abbacchio,21.0,Male,Vineyard,,Moody Blues,C,C,A,A,C,C
+Narancia Ghirga,17.0,Male,Vineyard,,Aerosmith,B,B,B,C,E,C
+Pannacotta Fugo,16.0,Male,Vineyard,,Purple Haze,A,B,C,E,E,B
+Trish Una,15.0,Female,Vineyard,,Spice Girl,A,A,C,B,D,C
+Carne,,Male,San Giorgio Maggiore,,Notorious B.I.G,A,Infinity,Infinity,Infinity,E,A
+Cioccolata,34.0,Male,San Giorgio Maggiore,,Green Day,A,C,A,A,E,A
+Diavolo,33.0,Male,San Giorgio Maggiore,,King Crimson,A,A,E,E,?,?
+Formaggio,,Male,San Giorgio Maggiore,,Little Feet,D,B,E,A,D,C
+Ghiaccio,,Male,San Giorgio Maggiore,,White Album,A,C,C,A,E,E
+Illuso,,Male,San Giorgio Maggiore,,Man in the Mirror,C,C,B,D,C,E
+Mario Zucchero,24.0,Male,San Giorgio Maggiore,,Soft Machine,A,C,E,A,D,E
+Melone,,Male,San Giorgio Maggiore,,Baby Face,A,B,A,A,?,?
+Pesci,,Male,San Giorgio Maggiore,,Beach Boy,C,B,B,C,C,A
+Prosciutto,,Male,San Giorgio Maggiore,,The Grateful Dead,B,E,B,A,E,C
+Risotto Nero,28.0,Male,San Giorgio Maggiore,,Metallica,C,C,C,A,C,C
+Sale,,Male,San Giorgio Maggiore,,Kraft Work,A,A,E,C,E,E
+Secco,,Male,San Giorgio Maggiore,,Oasis,A,A,B,A,E,C
+Squalo,,Male,San Giorgio Maggiore,,Clash,D,A,B,A,A,C
+Tizzano,,Male,San Giorgio Maggiore,,Talking Head,E,E,B,A,E,E
+Emporio Alnino,11.0,Male,Green Dolphin Street Prison,,Burning Down the House,Null,Null,Null,Null,Null,Null
+Ermes Costello,21.0,Female,Green Dolphin Street Prison,,Kiss,A,A,A,A,C,A
+Foo Fighters,22.0,Female,Green Dolphin Street Prison,,Foo Fighters,B,A,C,A,C,B
+Narciso Anasui,25.0,Male,Green Dolphin Street Prison,,Diver Down,A,A,E,C,B,B
+Weather Report,39.0,Male,Green Dolphin Street Prison,,Weather Report,A,B,C,A,E,A
