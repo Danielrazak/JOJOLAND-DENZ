@@ -7,3 +7,9 @@
 > There are 8 basic features and 3 extra features that had been done by us in creating JOJOLands
 
 ## Problem Statement
+- Develop engaging gameplay mechanics for Jojolands
+- Achieve character balancing in Jojolands
+- Color-blind friendly user interface and user experience (UI/UX) in Jojolands
+
+## Question
+> More details can be found [here](https://github.com/samweihong/JOJOLands) .
